@@ -1,3 +1,12 @@
+# Small learning project
+An app created with React Hooks and [imgflip API](https://imgflip.com/api)
+
+#### TODO
+[] - add back to templates button
+[] - loading 20 templates at first and adding load more button
+[] - random template page
+[] - download image button and functionality
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
