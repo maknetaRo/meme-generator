@@ -2,10 +2,10 @@
 An app created with React Hooks and [imgflip API](https://imgflip.com/api)
 
 #### TODO
-[ ] - add back to templates button
-[ ] - loading 20 templates at first and adding load more button
-[ ] - random template page
-[ ] - download image button and functionality
+* [ ] - add back to templates button
+* [ ] - loading 20 templates at first and adding load more button
+* [ ] - random template page
+* [ ] - download image button and functionality
 
 # Getting Started with Create React App
 
